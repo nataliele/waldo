@@ -1,0 +1,5 @@
+classes= 1
+train  = data/waldo_yolo2/train.txt
+valid  = data/waldo_yolo2/test.txt
+names = cfg/obj.names
+backup = backup_waldo_yolo2/

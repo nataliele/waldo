@@ -1,0 +1,4 @@
+classes= 1
+train  = data/waldo/train.txt
+valid  = data/waldo/test.txt
+names = data/waldo.names

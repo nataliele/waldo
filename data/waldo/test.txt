@@ -1,0 +1,3 @@
+data/waldo/book1_s11.jpg
+data/waldo/book1_s6.jpg
+data/waldo/book1_s7.jpg
